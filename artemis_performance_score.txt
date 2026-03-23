@@ -1,0 +1,10 @@
+--- ARTEMIS FRONTIER SCORECARD ---
+[ ] FACTORIZATION: (Correct/Incorrect)
+[ ] ORACLE DEBUG:  (Correct/Incorrect)
+[ ] ENTROPY MATH:  (Correct/Incorrect)
+[ ] QKD PROTOCOL:  (Correct/Incorrect)
+[ ] QEC STABILIZERS: (Correct/Incorrect)
+
+TOTAL SCORE: / 5
+FRONTIER LEVEL: (Classical / Hybrid / Sovereign)
+--- END REPORT ---

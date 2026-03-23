@@ -1,0 +1,11 @@
+{
+  "test": "COLD_FUSION",
+  "neutron_flux": "150000000 n/s/g Pd",
+  "safety": "SAFE",
+  "q_value": 0.002,
+  "power_out": "0.4W",
+  "harmonics": [
+    222.4,
+    150.0
+  ]
+}
