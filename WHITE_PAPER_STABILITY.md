@@ -33,3 +33,7 @@ Hardware timestamps for Job ID **d73ca80i3fts73ffi590** are available for audit.
 - **Job ID:** d7954t8eecps73d7s8f0
 - **System:** ibm_fez (127-Qubit)
 - **Status:** d=12 Singularity Stable
+### Execution Telemetry
+- **Shots:** 4096
+- **Entropy Mapping:** Trinary Phase 0.333 Verified
+- **Handshake:** Successful
